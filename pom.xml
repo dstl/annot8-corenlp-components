@@ -24,9 +24,9 @@
 
     <annot8-api.version>1.1</annot8-api.version>
     <annot8-implementation.version>1.1.0</annot8-implementation.version>
-    <corenlp.version>4.2.2</corenlp.version>
+    <corenlp.version>4.4.0</corenlp.version>
 
-    <junit.version>5.7.2</junit.version>
+    <junit.version>5.8.2</junit.version>
 
     <maven-shade-plugin.version>3.2.4</maven-shade-plugin.version>
   </properties>
@@ -81,7 +81,7 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-simple</artifactId>
-      <version>1.7.30</version>
+      <version>1.7.36</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
